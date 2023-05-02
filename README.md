@@ -38,6 +38,6 @@ hackerman - The Most Powerful Hacker Of All The Time
 |     Tandy 1000    |       Tandy 1000 PLUS       |
 ```
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yapduser&theme=transparent&hide_border=true&title_color=000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yapduser&theme=transparent&hide_border=true&title_color=00CC00&text_color=00CC00)
 
 ![Profile views](https://gpvc.arturio.dev/yapduser)
