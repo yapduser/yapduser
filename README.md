@@ -8,7 +8,7 @@
 hackerman - The Most Powerful Hacker Of All The Time
 ```
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=2FF71A&width=435&lines=skills)
+## Skills
 ```
 - I can triangulate the cell phone signal and trace the caller.
 - Using an RX modulator, I can conduct a mainframe call direct and hack the uplink to the download.
@@ -17,7 +17,7 @@ hackerman - The Most Powerful Hacker Of All The Time
 
 <p align="center"><img src="https://raw.githubusercontent.com/yapduser/yapduser/main/HackingInProgress.gif"/></p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=2FF71A&width=435&lines=technologies+%26+tools)
+## Technologies & Tools
 ```
 |      OS      |     Tools    |   Code  |      IDE     |
 |--------------|--------------|---------|--------------|
@@ -28,7 +28,7 @@ hackerman - The Most Powerful Hacker Of All The Time
 |    Oberon    |     BDS C    |    C    |     edlin    |
  ```
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&color=2FF71A&width=435&lines=hardware)
+## Hardware
 ```
 |     Computers     |         Peripherals         |
 |-------------------|-----------------------------|
@@ -38,6 +38,4 @@ hackerman - The Most Powerful Hacker Of All The Time
 |     Tandy 1000    |       Tandy 1000 PLUS       |
 ```
 ***
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yapduser&theme=transparent&hide_border=true&title_color=00CC00&text_color=00CC00)
-
 ![Profile views](https://gpvc.arturio.dev/yapduser)
