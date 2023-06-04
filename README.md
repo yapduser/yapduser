@@ -37,5 +37,3 @@ hackerman - The Most Powerful Hacker Of All The Time
 | Schneider CPC 464 |         Tandy FD-502        |
 |     Tandy 1000    |       Tandy 1000 PLUS       |
 ```
-***
-![Profile views](https://gpvc.arturio.dev/yapduser)
